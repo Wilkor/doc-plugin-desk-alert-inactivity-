@@ -16,12 +16,13 @@ Muito simples, basta seguir o passo a passo abaixo para ativar e configurar sua 
 
  **Obs**: Você poderá cadastrar multiplos **Routers**
  
-![image](https://github.com/Wilkor/doc-plugin-agent-report/assets/34819624/cae647b8-4357-4a2c-926a-1be2b6f7ffdb)
+![image](https://github.com/Wilkor/doc-plugin-desk-alert-inactivity-/assets/34819624/72a5ff4c-f8c8-4d11-b60f-42666bdec045)
+
 
   
   - Depois que ativado, clique no link abaixo para ativar a extensão no chrome de cada atendente.
   
-![image](https://github.com/Wilkor/doc-plugin-agent-report/assets/34819624/68ddf709-054b-447c-96b7-50b657272aa0)
+![image](https://github.com/Wilkor/doc-plugin-desk-alert-inactivity-/assets/34819624/07a579e9-6070-41bf-914d-32ced791c791)
    
    Em seguida, usar no chrome:
    
