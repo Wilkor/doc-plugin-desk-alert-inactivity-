@@ -9,27 +9,32 @@ Muito simples, basta seguir o passo a passo abaixo para ativar e configurar sua 
  - Procure por **Alerta de Inatividade do Agente!** e clique em ativar **(Instalar em seu bot Router/Roteador)**;
  - Após a instalação da extensão, siga os passos abaixo;
  
- # Como configurar?
+ # Adicionando telefones
  
-  - Selecione o chatbot de atendimento
-  - Clicar em Ativar Extensão/Atualizar, conforme imagem abaixo:
-
- **Obs**: Você poderá cadastrar multiplos **Routers**
- 
-![image](https://github.com/Wilkor/doc-plugin-desk-alert-inactivity-/assets/34819624/72a5ff4c-f8c8-4d11-b60f-42666bdec045)
-
-
-  
-  - Depois que ativado, clique no link abaixo para ativar a extensão no chrome de cada atendente.
-  
-![image](https://github.com/Wilkor/doc-plugin-desk-alert-inactivity-/assets/34819624/07a579e9-6070-41bf-914d-32ced791c791)
+   Na tela abaixo, você pode inserir os numero de telefones dos gestores/supervisores que serão notificados via WhatsApp assim que o analista ultrapassar o tempo limite de reposta.
    
+   ![image](https://github.com/Wilkor/doc-plugin-desk-alert-inactivity-/assets/34819624/c186b70d-8720-4e7f-b8f4-f3237d903f14)
+   
+   Esse tempo limite de reposta você encontra no bot de atendimento em Atendimento -> configurações gerais -> Tempo máximo de resposta do Atendente, conforme tela abaixo:
+   
+   ![image](https://github.com/Wilkor/doc-plugin-desk-alert-inactivity-/assets/34819624/4c913472-1a2a-4403-8d7f-29ffc88c76c8)
+   
+   Ao enserir um telefone ou uma lista (utilizando a separação conforme exemplo), você terá a tela abaixo:
+   
+   ![image](https://github.com/Wilkor/doc-plugin-desk-alert-inactivity-/assets/34819624/bf793749-ef33-49c2-8072-632bf84292ff)
+
+   Clicando na lixeira, você remove o telefone das notificação:
+   
+   ![image](https://github.com/Wilkor/doc-plugin-desk-alert-inactivity-/assets/34819624/509efeb2-27ba-4280-82a1-03f3d86c8c36)
+
+  
+  Depois que ativado, clique no link abaixo para ativar a extensão no chrome de cada atendente que deseja monitorar.
+  
+  ![image](https://github.com/Wilkor/doc-plugin-desk-alert-inactivity-/assets/34819624/5a4155ad-a2ef-4540-864d-dd89064cde07)
+
    Em seguida, usar no chrome:
    
-   ![image](https://user-images.githubusercontent.com/34819624/208984825-6bb8e412-70f9-4d92-852b-90510b0ba778.png)
-
-
-
+  ![image](https://github.com/Wilkor/doc-plugin-desk-alert-inactivity-/assets/34819624/ad312734-bef5-4d5c-9a2a-56f338aea2f2)
   
  Aqui você também pode conferir o video dele funcionando👇🏻
  
