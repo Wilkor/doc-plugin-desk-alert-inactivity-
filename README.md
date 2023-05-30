@@ -34,7 +34,7 @@ Muito simples, basta seguir o passo a passo abaixo para ativar e configurar sua 
 
    Em seguida, usar no chrome:
    
-  ![image](https://github.com/Wilkor/doc-plugin-desk-alert-inactivity-/assets/34819624/ad312734-bef5-4d5c-9a2a-56f338aea2f2)
+  ![image](https://github.com/Wilkor/doc-plugin-desk-alert-inactivity-/assets/34819624/832f583f-9f35-4a04-950e-6078f943a560)
   
  Aqui você também pode conferir o video dele funcionando👇🏻
  
