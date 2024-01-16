@@ -1,5 +1,5 @@
-![N|Solid](https://raw.githubusercontent.com/Wilkor/img-clonebots/main/logoParseHorizontal.jpeg)
 
+![icone_github](https://github.com/Wilkor/doc-plugin-desk-alert-inactivity-/assets/34819624/8ae536a4-1a2b-427c-b779-20ebc17db8ad)
 
 # Como utilizar a extensão Alerta de Inatividade do Agente!
 
